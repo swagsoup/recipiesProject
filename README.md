@@ -1,0 +1,1 @@
+This is a project for The Odin Project. It is a website used to display recipies.
